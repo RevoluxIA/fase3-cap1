@@ -1,0 +1,657 @@
+{
+  "boot_info": {
+    "ets": "Jul 29 2019 12:21:46",
+    "rst": "0x1 (POWERON_RESET)",
+    "boot": "0x13 (SPI_FAST_FLASH_BOOT)",
+    "configsip": 0,
+    "SPIWP": "0xee",
+    "clk_drv": "0x00",
+    "q_drv": "0x00",
+    "d_drv": "0x00",
+    "cs0_drv": "0x00",
+    "hd_drv": "0x00",
+    "wp_drv": "0x00",
+    "mode": "DIO",
+    "clock_div": 2,
+    "load_1": {
+      "address": "0x3fff0030",
+      "len": 1156
+    },
+    "load_2": {
+      "address": "0x40078000",
+      "len": 11456
+    },
+    "ho": 0,
+    "tail": 12,
+    "room": 4,
+    "load_3": {
+      "address": "0x40080400",
+      "len": 2972
+    },
+    "entry": "0x400805dc"
+  },
+  "readings": [
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 3.42,
+      "ldr_value": 1001,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 3.42,
+      "ldr_value": 1001,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 3.42,
+      "ldr_value": 1001,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 3.42,
+      "ldr_value": 1001,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 5.23,
+      "ldr_value": 1529,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 3.59,
+      "ldr_value": 1049,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 3.59,
+      "ldr_value": 1049,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 1.97,
+      "ldr_value": 577,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 10.97,
+      "ldr_value": 3209,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 10.40,
+      "ldr_value": 3042,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 9.77,
+      "ldr_value": 2857,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 9.67,
+      "ldr_value": 2829,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 8.76,
+      "ldr_value": 2562,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA",
+      "nutrient_added": "Adicionando Fósforo"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 15.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 60.50,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 60.50,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 60.50,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 37.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.56,
+      "ldr_value": 2210,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 6.77,
+      "ldr_value": 1979,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.67,
+      "ldr_value": 488,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 1.53,
+      "ldr_value": 448,
+      "pump_status": "DESLIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.44,
+      "ldr_value": 2177,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA",
+      "nutrient_added": "Adicionando Fósforo"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA",
+      "nutrient_added": "Adicionando Fósforo"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA",
+      "nutrient_added": "Adicionando Fósforo"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA",
+      "nutrient_added": "Adicionando Potássio"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA",
+      "nutrient_added": "Adicionando Potássio"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA"
+    },
+    {
+      "humidity": 12.00,
+      "temperature": 35.70,
+      "pH": 7.66,
+      "ldr_value": 2242,
+      "pump_status": "LIGADA"
+    }
+  ]
+}
