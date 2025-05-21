@@ -72,9 +72,7 @@ FASE3-CAP1/
 ```
 
 ## 🖼️ Diagrama do Circuito
-![Diagrama do Circuito](docs/diagram.json)
-
-*Nota*: Certifique-se de que a imagem `circuito.png` está na pasta `docs/`, exportada do Wokwi.
+![Diagrama do Circuito](docs/capturar.png)
 
 ## 🚀 Instruções de Uso
 1. Monte o circuito no Wokwi conforme o diagrama.
