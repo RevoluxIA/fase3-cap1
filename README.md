@@ -72,7 +72,7 @@ FASE3-CAP1/
 ```
 
 ## 🖼️ Diagrama do Circuito
-![Diagrama do Circuito](docs/capturar.png)
+![Diagrama do Circuito](docs/Capturar.png)
 
 ## 🚀 Instruções de Uso
 1. Monte o circuito no Wokwi conforme o diagrama.
